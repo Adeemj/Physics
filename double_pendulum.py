@@ -1,3 +1,4 @@
+#Run on glowscript.org
 GlowScript 2.7 VPython
 from visual import *
 from visual.graph import *
